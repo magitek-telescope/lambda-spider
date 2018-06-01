@@ -1,0 +1,5 @@
+{
+  "method": "get",
+  "endpoint": "https://api.push7.jp/api/v1",
+  "params": {}
+}

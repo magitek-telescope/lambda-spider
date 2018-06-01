@@ -1,0 +1,8 @@
+{
+  "name": "lambda-spider",
+  "description": "lambda cron curl worker",
+  "memory": 128,
+  "timeout": 60,
+  "role": "YOUR_ROLE",
+  "environment": {}
+}

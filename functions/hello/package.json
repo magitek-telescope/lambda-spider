@@ -1,0 +1,11 @@
+{
+  "name": "lambda-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/magitek-telescope/lambda-spider",
+  "author": "HANATANI Takuma <mail@potato4d.me>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
